@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "demoApp",
+    "owner": "Shubham",
+    "description": "Super Secure private CBI storage"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "diagram1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
